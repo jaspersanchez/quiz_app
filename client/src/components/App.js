@@ -11,7 +11,7 @@ import Result from "./Result";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Main></Main>,
+    element: <Main>Test</Main>,
   },
   {
     path: "/quiz",
